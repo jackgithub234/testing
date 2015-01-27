@@ -21,3 +21,8 @@ emacs top.sls
 git branch
 git checkout fix-1166
 git merge master
+
+git log master
+git log origin/master
+
+look at git stashing
