@@ -26,3 +26,8 @@ git log master
 git log origin/master
 
 look at git stashing
+cherry pick 
+fast-forward merge
+3-way merge
+detached head
+rebase
