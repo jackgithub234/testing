@@ -1,0 +1,23 @@
+
+git diff top.sls
+git status
+git log -5 top.sls
+git branch
+git branch fix-1166
+git checkout fix-1166
+git branch
+git status
+git diff top.sls
+git checkout --
+git status
+git diff top.sls
+git checkout -- top.sls
+git status
+emacs top.sls
+git pull 
+git checkout master
+git pull
+emacs top.sls
+git branch
+git checkout fix-1166
+git merge master
