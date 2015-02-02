@@ -25,27 +25,9 @@ git merge master
 git log master
 git log origin/master
 
-git diff origin/master..master
-git log origin/master..master
-git log --oneline master
-git log --online origin/master
-
-how to add someone as a collaborator to your github account? 
-add someone then do a pull request
-
-git ls-remote --heads There are two popular models of collaborative development on GitHub: Fork & pull and shared repository.
-
 look at git stashing
 cherry pick 
 fast-forward merge
 3-way merge
 detached head
 rebase
-bisect
-git add upstream <url>
-fort a git repo
-pull request
-There are two popular models of collaborative development on GitHub: Fork & pull and shared repository.
-
-hope this is enough use cases. 
-test --amend
