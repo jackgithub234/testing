@@ -50,3 +50,4 @@ There are two popular models of collaborative development on GitHub: Fork & pull
 hope this is enough use cases. 
 my-tetin
 testing git reset
+git reset test 2
